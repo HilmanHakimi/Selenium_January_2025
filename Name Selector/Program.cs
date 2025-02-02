@@ -32,7 +32,7 @@ class EntryPoint
               or you can just use(Console.WriteLine)
             */
         }
-         
+
 
         //Pause for 3 second
         Thread.Sleep(3000);

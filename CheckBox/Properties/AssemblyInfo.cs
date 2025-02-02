@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Input Text Box")]
+[assembly: AssemblyTitle("CheckBox")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Input Text Box")]
+[assembly: AssemblyProduct("CheckBox")]
 [assembly: AssemblyCopyright("Copyright ©  2025")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("f2cd7ddd-1dd8-4a76-85f3-8b22ecb14720")]
+[assembly: Guid("5948f33d-79ea-4f06-b571-9b2761cee832")]
 
 // Version information for an assembly consists of the following four values:
 //

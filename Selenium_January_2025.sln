@@ -3,15 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Name Selector", "SetupEnvironment1\Name Selector.csproj", "{FE4A6D57-2E07-43FB-870D-D81E7C114391}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ID Selector", "ID Selector\ID Selector.csproj", "{2801A449-308D-462A-8100-A81C00C2843F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class Name", "Class Name\Class Name.csproj", "{40E02C8A-E755-4836-8ABF-0B7BDA5B92B6}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSS Path", "CSS Path\CSS Path.csproj", "{7AC3E616-E941-412E-8719-CF29D04C3FFD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Input Text Box", "Inpu Text Box\Input Text Box.csproj", "{91265F6D-8AF8-44F6-BA72-4B3DA63A154B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Input Text Box", "Input Text Box\Input Text Box.csproj", "{F2CD7DDD-1DD8-4A76-85F3-8B22ECB14720}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Name Selector", "Name Selector\Name Selector.csproj", "{5B449E32-3F45-4C0B-9990-19621D18928D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckBox", "CheckBox\CheckBox.csproj", "{5948F33D-79EA-4F06-B571-9B2761CEE832}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,10 +21,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{FE4A6D57-2E07-43FB-870D-D81E7C114391}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FE4A6D57-2E07-43FB-870D-D81E7C114391}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FE4A6D57-2E07-43FB-870D-D81E7C114391}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FE4A6D57-2E07-43FB-870D-D81E7C114391}.Release|Any CPU.Build.0 = Release|Any CPU
 		{2801A449-308D-462A-8100-A81C00C2843F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{2801A449-308D-462A-8100-A81C00C2843F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2801A449-308D-462A-8100-A81C00C2843F}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -35,10 +33,18 @@ Global
 		{7AC3E616-E941-412E-8719-CF29D04C3FFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7AC3E616-E941-412E-8719-CF29D04C3FFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7AC3E616-E941-412E-8719-CF29D04C3FFD}.Release|Any CPU.Build.0 = Release|Any CPU
-		{91265F6D-8AF8-44F6-BA72-4B3DA63A154B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{91265F6D-8AF8-44F6-BA72-4B3DA63A154B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{91265F6D-8AF8-44F6-BA72-4B3DA63A154B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{91265F6D-8AF8-44F6-BA72-4B3DA63A154B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2CD7DDD-1DD8-4A76-85F3-8B22ECB14720}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2CD7DDD-1DD8-4A76-85F3-8B22ECB14720}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2CD7DDD-1DD8-4A76-85F3-8B22ECB14720}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2CD7DDD-1DD8-4A76-85F3-8B22ECB14720}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B449E32-3F45-4C0B-9990-19621D18928D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B449E32-3F45-4C0B-9990-19621D18928D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B449E32-3F45-4C0B-9990-19621D18928D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B449E32-3F45-4C0B-9990-19621D18928D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5948F33D-79EA-4F06-B571-9B2761CEE832}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5948F33D-79EA-4F06-B571-9B2761CEE832}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5948F33D-79EA-4F06-B571-9B2761CEE832}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5948F33D-79EA-4F06-B571-9B2761CEE832}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
